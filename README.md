@@ -2,9 +2,6 @@
 --UNDER CONSTRUCTION--
 </H1>
 
-<br> </br>
-
-
 <h1> 
 
 Kurtis Poore - Professional Statement </h1>
