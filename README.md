@@ -1,8 +1,7 @@
 <H1>
-:memo: --UNDER CONSTRUCTION--
+--UNDER CONSTRUCTION--
 </H1>
 
-<br> </br>
 <br> </br>
 
 
