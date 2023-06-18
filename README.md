@@ -21,9 +21,13 @@ Is a highly motivated and experienced professional with hands-on experience rang
 
 Communication skills: Able to communicate effectively with others, both verbally and in writing / electronically. Can speak multiple languages including  
 
-French (Advanced) 
-Russian (Intermediate) 
-Spanish (Basic)
+<ul>
+  <li>French (Advanced)</li>
+  <li>Russian (Intermediate)</li>
+  <li>Spanish (Basic)</li>
+</ul> 
+ 
+
 
 Problem-solving skills: Able to identify and solve problems. Have a knack for wanting to fix things that should be working more effectively! Experience in the following coding languages:
 
