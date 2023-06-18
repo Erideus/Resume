@@ -1,12 +1,11 @@
+<H1>--UNDER CONSTRUCTION--</H1>
 
-<h1> 
+<br>
 
-<center> -----Under Construction---- </center>
-  
-</h1>
+</br>
+<br>
 
-
-
+</br>
 <h1> 
 
 Kurtis Poore - Professional Statement </h1>
@@ -31,11 +30,13 @@ Communication skills: Able to communicate effectively with others, both verbally
 
 Problem-solving skills: Able to identify and solve problems. Have a knack for wanting to fix things that should be working more effectively! Experience in the following coding languages:
 
-Python
-Ruby
-SQL
-Java
-HTML
+<ul>
+   <li>Python</li>
+   <li>Ruby</li>
+   <li>SQL</li>
+   <li>Java</li>
+   <li>HTML</li>
+</ul>
 
 
 Teamwork skills: Able to work effectively as part of a team. Nothing better than a smooth running engine.
