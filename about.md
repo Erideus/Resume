@@ -1,7 +1,13 @@
 
-<h1> Kurtis Poore - Professional Statement </h1>
+<h1> 
 
-<h2> Insight </h2>
+Kurtis Poore - Professional Statement </h1>
+
+<h2> 
+  
+Insight 
+
+</h2>
 
 Is a highly motivated and experienced professional with hands-on experience ranging from critical infrastructure, network operations, and field service with a proven track record of success along with over 10 years of experience in the field. He’s always had a passion for truth and justice. In fact, this has only fostered within him more as he’s grown to become an adult and father. He’s seeking to serve his country in offering his skills and full potential in protecting it on the digital battlefield however he may.
 
